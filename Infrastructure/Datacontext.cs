@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -9,9 +8,17 @@ namespace Infrastructure
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
-
         }
 
-        public DbSet<Owner> owner { get; set; }
+        protected overide void OnModelCreating(ModelBuilder model)
+        {
+            base.onMOdelCreatiog(modelBuilder);
+            modelBuilder.Entity<Owner>().Property(x => x.Id).HasDefaultValue("NEWID()")
+
+            modelBuilder.Entity<PortfolioItem>().Property(x=>x.Id).HasDefaultValue("NEWID()")
+        }
+        public DbSet<Owner> Owner { get; set; }
+        public DbSet<PortfolioItem> PortfolioItem { get; set; }
+        
     }
 }
