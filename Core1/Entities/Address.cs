@@ -6,5 +6,7 @@
         public string City { get; set; }
 
         public string Number { get; set; }
+
+
     }
 }
