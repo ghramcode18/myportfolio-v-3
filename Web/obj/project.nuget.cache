@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcqqQOYGr7lBWeq//drll07IcTZvt7Zf/yqshJjJJIoLYw41dTzrv29xtYp419X0dP/rusDiiWrMxf2mzRhX9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BIG BANG\\Documents\\GitHub\\myportfolio-v-3\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BIG BANG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

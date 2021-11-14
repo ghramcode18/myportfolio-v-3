@@ -1,0 +1,5 @@
+C:\Users\BIG BANG\Documents\GitHub\myportfolio-v-3\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BIG BANG\Documents\GitHub\myportfolio-v-3\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIG BANG\Documents\GitHub\myportfolio-v-3\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BIG BANG\Documents\GitHub\myportfolio-v-3\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\BIG BANG\Documents\GitHub\myportfolio-v-3\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache

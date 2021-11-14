@@ -1,0 +1,238 @@
+﻿++Solution 'myportfolio v-3' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:myportfolio v-3.sln
+++Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++Dependencies
+i:{45c56d60-e0e9-48d6-a373-6eae3f75ef1f}:>318
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:>317
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:>494
+++Frameworks
+i:{45c56d60-e0e9-48d6-a373-6eae3f75ef1f}:frameworks
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:frameworks
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:frameworks
+++Datacontext.cs
+i:{45c56d60-e0e9-48d6-a373-6eae3f75ef1f}:c:\users\big bang\documents\github\myportfolio-v-3\infrastructure\datacontext.cs
+++Microsoft.NETCore.App
+i:{45c56d60-e0e9-48d6-a373-6eae3f75ef1f}:c:\users\big bang\documents\github\myportfolio-v-3\infrastructure\microsoft.netcore.app
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:c:\users\big bang\documents\github\myportfolio-v-3\core1\microsoft.netcore.app
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\microsoft.netcore.app
+++Core1
+i:{00000000-0000-0000-0000-000000000000}:Core1
+++Entities
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:c:\users\big bang\documents\github\myportfolio-v-3\core1\entities\
+++Address.cs
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:c:\users\big bang\documents\github\myportfolio-v-3\core1\entities\address.cs
+++EntityBase.cs
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:c:\users\big bang\documents\github\myportfolio-v-3\core1\entities\entitybase.cs
+++Owner.cs
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:c:\users\big bang\documents\github\myportfolio-v-3\core1\entities\owner.cs
+++PortfolioItem.cs
+i:{6e68f9ea-16a3-4a30-a4fa-56838187cefc}:c:\users\big bang\documents\github\myportfolio-v-3\core1\entities\portfolioitem.cs
+++Web
+i:{00000000-0000-0000-0000-000000000000}:Web
+++Connected Services 
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:>495
+++No service dependencies discovered
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:>496
+++Analyzers
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:analyzers
+++Properties
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\properties\
+++launchSettings.json
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\properties\launchsettings.json
+++wwwroot
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\
+++css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\css\
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\
+++fonts
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\
+++img
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\
+++js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\
+++favicon.ico
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\favicon.ico
+++index.html
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\index.html
+++Controllers
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\controllers\
+++HomeController.cs
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\controllers\homecontroller.cs
+++Pages
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\
+++Shared
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\shared\
+++_ViewImports.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\_viewstart.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\views\_viewstart.cshtml
+++Error.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\error.cshtml
+++Index.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\index.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\views\home\index.cshtml
+++Privacy.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\privacy.cshtml
+++views
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\views\
+++Home
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\views\home\
+++Sherd
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\views\sherd\
+++appsettings.json
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\appsettings.json
+++appsettings.Development.json
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\appsettings.development.json
+++Program.cs
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\program.cs
+++Startup.cs
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\startup.cs
+++Microsoft.AspNetCore.Analyzers
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\microsoft.aspnetcore.app
+++freelancer.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\css\freelancer.css
+++webfonts
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\
+++portfolio
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\
+++avatar.jpg
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\avatar.jpg
+++bootstrap.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.js
+++freelancer.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\freelancer.js
+++jquery.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.js
+++_Layout.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\shared\_layout.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\views\sherd\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\pages\privacy.cshtml.cs
+++About.cshtml
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\views\home\about.cshtml
+++all.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\all.css
+++brands.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\brands.css
+++fontawesome.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\fontawesome.css
+++regular.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\regular.css
+++solid.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\solid.css
+++svg-with-js.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\svg-with-js.css
+++v4-shims.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\v4-shims.css
+++fa-brands-400.eot
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\webfonts\fa-solid-900.woff2
+++1_QpkU690MioKK7lHwLE0_Bg.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\1_qpku690miokk7lhwle0_bg.png
+++1216376-new-dark-abstract-wallpapers-hd-2560x1440-for-android-50.jpg
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\1216376-new-dark-abstract-wallpapers-hd-2560x1440-for-android-50.jpg
+++2-nature-wallpaper-grass.1280.jpg
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\2-nature-wallpaper-grass.1280.jpg
+++ahmed tartour.jpg
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\ahmed tartour.jpg
+++angry.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\angry.png
+++commercial.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\commercial.png
+++ecole.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\ecole.png
+++flappy.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\flappy.png
+++gps.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\gps.png
+++home1.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\home1.png
+++instagram.png
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\img\portfolio\instagram.png
+++bootstrap.bundle.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.js.map
+++bootstrap.min.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.min.js
+++freelancer.min.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\freelancer.min.js
+++jquery.easing.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.easing.js
+++jquery.min.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.min.js
+++jquery.slim.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.slim.js
+++all.min.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\all.min.css
+++brands.min.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\brands.min.css
+++fontawesome.min.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\fontawesome.min.css
+++regular.min.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\regular.min.css
+++solid.min.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\solid.min.css
+++svg-with-js.min.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\svg-with-js.min.css
+++v4-shims.min.css
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\fonts\css\v4-shims.min.css
+++bootstrap.bundle.js.map
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.min.js.map
+++jquery.easing.compatibility.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.easing.compatibility.js
+++jquery.easing.min.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.easing.min.js
+++jquery.min.map
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.min.map
+++jquery.slim.min.js
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.slim.min.js
+++bootstrap.bundle.min.js.map
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\bootstrap.bundle.min.js.map
+++jquery.slim.min.map
+i:{50d58e1a-a261-416d-85e0-475f2302b963}:c:\users\big bang\documents\github\myportfolio-v-3\web\wwwroot\js\jquery.slim.min.map
